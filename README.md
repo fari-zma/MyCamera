@@ -1,7 +1,7 @@
 ## **MyCamera**
-Camera app for android.
-> Switch b/w front and back camera.
-> Capture image
+Camera app for android.<br>
+> Switch b/w front and back camera.<br>
+> Capture image.<br>
 > Record video
 
 ## **Screenshot**
