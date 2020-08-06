@@ -12,3 +12,6 @@ Camera app for android.<br>
 
 ## **Apk**
 [app-debug.apk](src/app-debug.apk?raw=true)
+
+## **License**
+Licensed under the [MIT License](LICENSE)
